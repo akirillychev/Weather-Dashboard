@@ -1,0 +1,30 @@
+#title {
+    margin-bottom: 0;
+    padding: 10px;
+    text-align: center;
+}
+
+
+.col-lg-9 {
+    float: right;
+}
+
+#forecastCard {
+    border: none;
+}
+
+
+#cityName {
+    display: inline;
+}
+
+
+#bg {
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+      
+    /* Preserve aspet ratio */
+    min-width: 100%;
+    min-height: 100%;
+  }
